@@ -1,0 +1,6 @@
+LATEX = platex
+DVIPDFM = dvipdfmx
+
+LaTeXDocument(major, major)
+
+.DEFAULT: major.pdf major.dvi

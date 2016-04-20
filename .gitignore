@@ -1,0 +1,6 @@
+.omakedb*
+*.aux
+*.dvi
+*.fls
+*.log
+*.omc
